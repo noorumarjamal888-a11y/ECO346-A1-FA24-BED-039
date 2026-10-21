@@ -1,7 +1,7 @@
 # ECO346 Assignment 1: Earnings in urban Balochistan
 
-**Name:** <YOUR NAME>
-**Registration number:** <YOUR REG. NO.>
+**Name:** <MAHNOOR JAMAL>
+**Registration number:** <FA24-BED-039>
 **Variant:** 7 (last two digits 39 = 4 x 8 + 7), so **Balochistan urban** (prov_code 4, urban_rural 2).
 
 Data: PSLM 2019-20 person file merged with the household file by `hhid`. Sample: earners aged 15-64 with `earn_annual` > 0. All statistics are weighted by `hhweight`.

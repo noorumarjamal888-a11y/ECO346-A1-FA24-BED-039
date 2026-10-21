@@ -1,0 +1,5 @@
+# 01_default.R : Q4 ka default figure (kuch aur add nahi karna)
+source("scripts/00_helpers.R")
+library(svglite)
+p <- ggplot(earners, aes(age, earn_annual)) + geom_point()
+ggsave("figures/default.svg", p, width = 7, height = 5)
